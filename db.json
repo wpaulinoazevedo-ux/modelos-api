@@ -1,13 +1,13 @@
 {
     "modelos": [
-        {"id": 1, "modelo": "ONIX"},
-        {"id": 2, "modelo": "MONTANA"},
-        {"id": 3, "modelo": "SPIN"},
-        {"id": 4, "modelo": "TRACKER"},
-        {"id": 5, "modelo": "HB20"},
-        {"id": 6, "modelo": "HB20s"},
-        {"id": 7, "modelo": "VIRTUS"},
-        {"id": 5, "modelo": "POLO"},
-        {"id": 5, "modelo": "SAVEIRO"}
+        {"id": 1, "modelo": "ONIX", "marca": "CHEVROLET"},
+        {"id": 2, "modelo": "MONTANA", "marca": "CHEVROLET"},
+        {"id": 3, "modelo": "SPIN", "marca": "CHEVROLET"},
+        {"id": 4, "modelo": "TRACKER", "marca": "CHEVROLET"},
+        {"id": 5, "modelo": "HB20", "marca": "HYUNDAI"},
+        {"id": 6, "modelo": "HB20s", "marca": "HYUNDAI"},
+        {"id": 7, "modelo": "VIRTUS", "marca": "VOLKSWAGEN"},
+        {"id": 5, "modelo": "POLO", "marca": "VOLKSWAGEN"},
+        {"id": 5, "modelo": "SAVEIRO", "marca": "VOLKSWAGEN"},
     ]
 }
