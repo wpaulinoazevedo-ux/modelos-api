@@ -8,6 +8,6 @@
         {"id": 6, "modelo": "HB20s", "marca": "HYUNDAI"},
         {"id": 7, "modelo": "VIRTUS", "marca": "VOLKSWAGEN"},
         {"id": 5, "modelo": "POLO", "marca": "VOLKSWAGEN"},
-        {"id": 5, "modelo": "SAVEIRO", "marca": "VOLKSWAGEN"},
+        {"id": 5, "modelo": "SAVEIRO", "marca": "VOLKSWAGEN"}
     ]
 }
