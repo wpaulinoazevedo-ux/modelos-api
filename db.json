@@ -5,6 +5,8 @@
         {"id": 3, "modelo": "SPIN", "marca": "CHEVROLET"},
         {"id": 4, "modelo": "TRACKER", "marca": "CHEVROLET"},
         {"id": 5, "modelo": "HB20", "marca": "HYUNDAI"},
-        {"id": 6, "modelo": "HB20S", "marca": "HYUNDAI"}
+        {"id": 6, "modelo": "HB20S", "marca": "HYUNDAI"},
+        {"id": 7, "modelo": "VIRTUS", "marca": "VOLKSWAGEN"},
+        {"id": 8, "modelo": "POLO", "marca": "VOLKSWAGEN"}
     ]
 }
